@@ -1,0 +1,17 @@
+C:\work\poc_project\user_identification_service\src\main\java\com\userservice\oauth\config\JwtAuthenticationFilter.java
+C:\work\poc_project\user_identification_service\src\main\java\com\userservice\oauth\config\TokenValidator.java
+C:\work\poc_project\user_identification_service\src\main\java\com\userservice\oauth\config\UnauthorizedEntryPoint.java
+C:\work\poc_project\user_identification_service\src\main\java\com\userservice\oauth\config\WebSecurityConfig.java
+C:\work\poc_project\user_identification_service\src\main\java\com\userservice\oauth\controller\UserIdentificationController.java
+C:\work\poc_project\user_identification_service\src\main\java\com\userservice\oauth\model\AuthToken.java
+C:\work\poc_project\user_identification_service\src\main\java\com\userservice\oauth\model\LoginUser.java
+C:\work\poc_project\user_identification_service\src\main\java\com\userservice\oauth\model\Role.java
+C:\work\poc_project\user_identification_service\src\main\java\com\userservice\oauth\model\User.java
+C:\work\poc_project\user_identification_service\src\main\java\com\userservice\oauth\model\UserDto.java
+C:\work\poc_project\user_identification_service\src\main\java\com\userservice\oauth\repository\RoleRepository.java
+C:\work\poc_project\user_identification_service\src\main\java\com\userservice\oauth\repository\UserRepository.java
+C:\work\poc_project\user_identification_service\src\main\java\com\userservice\oauth\service\impl\RoleServiceImpl.java
+C:\work\poc_project\user_identification_service\src\main\java\com\userservice\oauth\service\impl\UserServiceImpl.java
+C:\work\poc_project\user_identification_service\src\main\java\com\userservice\oauth\service\RoleService.java
+C:\work\poc_project\user_identification_service\src\main\java\com\userservice\oauth\service\UserService.java
+C:\work\poc_project\user_identification_service\src\main\java\com\userservice\oauth\UserIdentificationApplication.java

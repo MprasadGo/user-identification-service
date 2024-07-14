@@ -1,0 +1,17 @@
+com\userservice\oauth\config\WebSecurityConfig.class
+com\userservice\oauth\UserIdentificationApplication.class
+com\userservice\oauth\repository\UserRepository.class
+com\userservice\oauth\service\UserService.class
+com\userservice\oauth\config\UnauthorizedEntryPoint.class
+com\userservice\oauth\service\impl\RoleServiceImpl.class
+com\userservice\oauth\service\impl\UserServiceImpl.class
+com\userservice\oauth\repository\RoleRepository.class
+com\userservice\oauth\model\User.class
+com\userservice\oauth\model\UserDto.class
+com\userservice\oauth\model\AuthToken.class
+com\userservice\oauth\config\JwtAuthenticationFilter.class
+com\userservice\oauth\model\LoginUser.class
+com\userservice\oauth\config\TokenValidator.class
+com\userservice\oauth\service\RoleService.class
+com\userservice\oauth\controller\UserIdentificationController.class
+com\userservice\oauth\model\Role.class
