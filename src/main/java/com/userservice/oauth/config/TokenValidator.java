@@ -82,7 +82,9 @@ public class TokenValidator implements Serializable {
         final String username = extractUsername(token);
         return (username.equals(userDetails.getUsername()) && !isTokenExpired(token));
     }
-
+    public void validateToken(final String token) {
+        Jwts.parser().setSigningKey(getSignKey()).build().parseClaimsJws(token);
+    }
     private Boolean isTokenExpired(String token) {
         return extractExpiration(token).before(new Date());
     }
