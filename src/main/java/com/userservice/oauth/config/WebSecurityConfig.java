@@ -50,7 +50,7 @@ public class WebSecurityConfig {
                 .exceptionHandling(exception -> exception
                         .authenticationEntryPoint(unauthorizedEntryPoint))
                 .authorizeHttpRequests(request ->
-                        request.antMatchers("/users/login",
+                        request.antMatchers("/users/authenticate",
                                         "/users/register",
                                         "/api/v1/auth/**",
                                         "/v2/api-docs",
